@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="parte_saludo">Hello</string>
+    <string name="saludar">SHOW</string>
+    <string name="titulo">Registration of peoples</string>
+    <string name="apellido">Milddle name</string>
+    <string name="nombre">Name</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="parte_saludo2">you age is</string>
+    <string name="error_1">Please Type your Name</string>
+    <string name="error_2">Please Type your Milddle name</string>
+    <string name="app_name">Application</string>
+    <string name="segundoapellido">Secund surname</string>
+    <string name="sexo">Sex</string>
+    <string name="primerapellido">Lastname</string>
+    <string name="parte_saludo3">and sex is</string>
+    <string name="error_6">Please Type your sex</string>
+    <string name="error_5">Please Type your age</string>
+    <string name="error_4">Please Type your Secund surname</string>
+    <string name="error_3">Please Type your Lastname</string>
+    <string name="edad">Age</string>
+    <string name="borrar">DELETE</string>
+</resources>
